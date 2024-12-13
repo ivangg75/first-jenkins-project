@@ -8,14 +8,14 @@ test.describe("Test Group", () => {
   });
 
   test("Test A", async ({ page }) => {
-    // Empty test body
+    console.log("Test A is expected");
   });
 
   test("Test B", async ({ page }) => {
-    // Empty test body
+    console.log("Test B is expected");
   });
 
   test("Test C", async ({ page }) => {
-    // Empty test body
+    console.log("Test C is expected");
   });
 });
